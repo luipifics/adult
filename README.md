@@ -1,4 +1,4 @@
-# asdult
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBLeEsphB5Kgwk4_6w5HtcZ_UZ44coudLyBw&usqp=CAU", CON MUCHO AFECTO DE SU AMIGO JORGE
 #EXTINF:-1,▬ For Adults [18+] ▬
 http://85.203.33.22:80/adGvUth9700/V2LoOs026/16509
